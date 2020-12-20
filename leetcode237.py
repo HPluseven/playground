@@ -4,17 +4,26 @@
 #         self.val = x
 #         self.next = None
 
+# class Solution:
+#     def deleteNode(self, node):
+#         """
+#         :type node: ListNode
+#         :rtype: void Do not return anything, modify node in-place instead.
+#         """
+#         preNode = None
+#         while(node.next):
+#             nextNode = node.next
+#             node.val = nextNode.val
+#             preNode = node
+#             node = nextNode
+
+#         preNode.next = None
+
 class Solution:
     def deleteNode(self, node):
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-        preNode = None
-        while(node.next):
-            nextNode = node.next
-            node.val = nextNode.val
-            preNode = node
-            node = nextNode
-        
-        preNode.next = None
+        node.val = node.next.val
+        node.next = node.next.next
