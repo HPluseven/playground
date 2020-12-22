@@ -19,6 +19,25 @@ class Solution:
 
         return reverse(None, head)
 
+# no recursive
+class Solution:
+    def reverseList(self, head: ListNode) -> ListNode:
+        if not head:
+            return head
+        
+        pre = None
+        cur = head
+
+        if not cur.next:
+            return cur
+        
+        while cur:
+            rear = cur.next
+            cur.next = pre
+            pre = cur
+            cur = rear
+
+        return pre
 
 if __name__ == "__main__":
     head = ListNode(1)
