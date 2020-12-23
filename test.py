@@ -1,2 +1,5 @@
 if __name__ == "__main__":
-    print(bool([]))
+    i = 0
+    while i < 10:
+        i += 1
+        print(i)
