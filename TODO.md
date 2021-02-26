@@ -45,7 +45,7 @@
     - [x] 198
 1. greed
     - [x] 455
-    - [ ] 122
+    - [x] 122
 1. backtracking algorithm
-    - [ ] 46
-    - [ ] 78
+    - [x] 46
+    - [x] 78
