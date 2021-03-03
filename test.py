@@ -1,3 +1,3 @@
 import collections
 if __name__ == "__main__":
-    print([[0]] * 2)
+    print(3//2)
