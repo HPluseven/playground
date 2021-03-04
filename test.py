@@ -1,3 +1,4 @@
 import collections
 if __name__ == "__main__":
-    print(3//2)
+    a = [0]
+    print([a.pop(0)])
