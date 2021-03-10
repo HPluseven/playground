@@ -24,7 +24,7 @@
 
 #         return l if l > r else r
 
-# wfs
+# bfs
 # class Solution:
 #     def maxDepth(self, root: TreeNode) -> int:
 #         deep = 0
