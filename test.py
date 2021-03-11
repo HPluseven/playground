@@ -1,3 +1,3 @@
 import collections
 if __name__ == "__main__":
-    print(ord('(') - ord('0'))
+    print(int(-3 / 2))
