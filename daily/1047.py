@@ -1,18 +1,11 @@
 class Solution:
     def removeDuplicates(self, S: str) -> str:
-        ans = S
+        stk = []
 
-        i = 0
-        while i < len(ans):
-            j = i + 1
-            if j < len(ans) and ans[j] == ans[i]:
-                ans = ans[:i]+ans[j+1:]
-                i = 0
+        for char in S:
+            if stk and char == stk[-1]:
+                stk.pop()
             else:
-                i += 1
+                stk.append(char)
 
-        return ans
-
-
-s = Solution()
-print(s.removeDuplicates("aaaaaaaaa"))
+        return ''.join(stk)
