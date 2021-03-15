@@ -44,5 +44,11 @@ Function.prototype.bind = function () {
   };
 };
 
-
-
+Function.prototype.bind = function () {
+  const args = Array.from(arguments);
+  const t = args.unshift();
+  const self = this;
+  return function () {
+    self.apply(t, args);
+  };
+};
