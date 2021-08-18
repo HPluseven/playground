@@ -1,0 +1,262 @@
+# 花花酱LC题集 To Do List
+
+- [ ] 1.Two Sum
+- [ ] 657.Judge Route Circle1.
+- [ ] 461.Hamming Distance
+- [ ] 455.Assign Cookies
+- [ ] 404.Sum of Left Leaves
+- [ ] 174. Dungeon Game
+- [ ] 566.Reshape the Matrix l
+- [ ] 561.Array Partition
+- [ ] 655.Print Binary Tree
+- [ ] 303.Range Sum Query - lmmutable
+- [ ] 551.Student Attendance Record l
+- [ ] 504.Base 7
+- [ ] 463.lsland Perimeter
+- [ ] 637.Average of Levels in Binary Tree
+- [ ] 628.Maximum Product of Three Numbers
+- [ ] 617.Merge Two Binary Trees
+- [ ] 633.Sum of Square Numbers
+- [ ] 606.Construct String from Binary Tree
+- [ ] 312.Burst Balloons
+- [ ] 141.Linked List Cycle
+- [ ] 70.Climbing Stairs
+- [ ] 112.Path Sum
+- [ ] 113.Path Sum ll
+- [ ] 120.Triangle
+- [ ] 53.Maximum Subarray
+- [ ] 139.Word Break (revisit)
+- [ ] 140. Word Break ll
+- [ ] 110.Balanced Binary Tree
+- [ ] 21.Merge Two Sorted Lists
+- [ ] 241.Different Ways to Add Parentheses
+- [ ] 102.Binary Tree Level Order Traversal
+- [ ] 687.Longest Univalue Path
+- [ ] 678.Valid Parenthesis String
+- [ ] 683.K Empty Slots
+- [ ] 690.Employee lmportance
+- [ ] 684.Redundant Connection
+- [ ] 208.lmplement Trie (Prefix Tree)
+- [ ] 126.Word Ladder ll
+- [ ] 127.Word Ladder681.Next Closest Time
+- [ ] 682.Baseball Game
+- [ ] 218.The Skyline Problem
+- [ ] 547.Friend Circles
+- [ ] 664.Strange Printer
+- [ ] 200.Number of lslands
+- [ ] 409.Longest Palindrome
+- [ ] 304.Range Sum Query 2D- Immutable
+- [ ] 221.Maximal Square
+- [ ] 677.Map Sum Pairs680.Valid Palindrome ll
+- [ ] 297.Serialize and Deserialize Binary Tree
+- [ ] 381.Insert Delete GetRandom o(1)- Duplicates allowed
+- [ ] 380.lnsert Delete GetRandom o(1)
+- [ ] 673.Number of Longest lncreasing Subsequence
+- [ ] 675.Cut Off Trees for Golf Event
+- [ ] 460.LFU Cache
+- [ ] 451.Sort Characters By Frequency
+- [ ] 332.Reconstruct ltinerary
+- [ ] 295.Find Median from Data Stream
+- [ ] 146.LRU Cache
+- [ ] 676.Implement Magic Dictionary
+- [ ] 300.Longest lncreasing Subsequence
+- [ ] 674.Longest Continuous lIncreasing Subsequence
+- [ ] 63.Unique Paths ll
+- [ ] 62.Unique Paths
+- [ ] 268.Missing Number
+- [ ] 611.Valid Triangle Numbe
+- [ ] 204.Count Primes
+- [ ] 51.N-Queens
+- [ ] 145.Binary Tree Postorder Traversal
+- [ ] 154.Find Minimum in Rotated Sorted Array ll
+- [ ] 153.Find Minimum in Rotated Sorted Array
+- [ ] 79.Word Search
+- [ ] 654.Maximum Binary Tree
+- [ ] 669.Trim a Binary Search Tree
+- [ ] 671.Second Minimum Node In a Binary Tree
+- [ ] 741.Cherry Pickup735.Asteroid Collision
+- [ ] 11.Container With Most Water
+- [ ] 399.Evaluate Division
+- [ ] 736.Parse Lisp Expression
+- [ ] 737.Sentence Similarity ll
+- [ ] 734.Sentence Similarity
+- [ ] 733.Flood Fill
+- [ ] 64.Minimum Path Sum
+- [ ] 730.Count Different Palindromic Subsequences
+- [ ] 731.My Calendar ll
+- [ ] 729.My Calendar l
+- [ ] 728.Self Dividing Numbers
+- [ ] 639.Decode Ways ll
+- [ ] 720.Longest Word in Dictionary
+- [ ] 726. Number of Atoms
+- [ ] 321.Create Maximum Number
+- [ ] 725.Split Linked List in Parts
+- [ ] 724.Find Pivot Index
+- [ ] 98.Validate Binary Search Tree
+- [ ] 91.Decode Ways
+- [ ] 4.Median of Two Sorted Arrays
+- [ ] 169.Majority Element
+- [ ] 216.Combination Sum ll
+- [ ] 719.Find K-th Smallest Pair Distance
+- [ ] 621.Task Scheduler
+- [ ] 699.Falling Squares
+- [ ] 715.Range Module
+- [ ] 347.Top K Frequent Elements
+- [ ] 692.Top K Frequent Words
+- [ ] 207.Course Schedule
+- [ ] 149.Max Points on a Line
+- [ ] 449.Serialize and Deserialize BST
+- [ ] 124.Binary Tree Maximum Path Sum
+- [ ] 37.Sudoku Solver
+- [ ] 40.Combination Sum ll
+- [ ] 72.Edit Distance
+- [ ] 57.Insert lnterval
+- [ ] 56. Merge Intervals
+- [ ] 488.Zuma Game
+- [ ] 685.Redundant Connection ll
+- [ ] 543.Diameter of Binary Tree
+- [ ] 39. Combination Sum
+- [ ] 128.Longest Consecutive Sequence
+- [ ] 688.Knight Probability in Chessboard
+- [ ] 786. K-th Smallest Prime Fraction
+- [ ] 773.Sliding Puzzle
+- [ ] 636.Exclusive Time of Functions
+- [ ] 464.Can I Win
+- [ ] 769. Max Chunks To Make Sorted
+- [ ] 1282.Expression Add Operators
+- [ ] 480.Sliding Window Median
+- [ ] 763.Partition Labels
+- [ ] 762.Prime Number of Set Bits in Binary Representatior
+- [ ] 239.Sliding Window Maximum
+- [ ] 69.sqrt(x)
+- [ ] 494.Target Sum2
+- [ ] 494. Target Sum
+- [ ] 758.Bold Words in String
+- [ ] 759.Employee Free Time
+- [ ] 264. Ugly Number ll
+- [ ] 263. ugly Number755.Pour Water
+- [ ] 309.Best Time to Buy and Sell Stock with Cooldown
+- [ ] 315.Count of Smaller Numbers After Self
+- [ ] l322.Coin Change
+- [ ] 754.Reach a Number
+- [ ] 652.Find Duplicate Subtrees
+- [ ] 416.Partition Equal Subset Sum
+- [ ] 753.Cracking the Safe
+- [ ] 476. Number Complement
+- [ ] 17.Letter Combinations of a Phone Number
+- [ ] 752.Open the Lock
+- [ ] 121.Best Time to Buy and Sell Stock
+- [ ] 301.Remove lnvalid Parentheses
+- [ ] 748.Shortest Completing Word
+- [ ] 746.Min Cost Climbing Stairs
+- [ ] 749.Contain Virus
+- [ ] 377.Combination Sum lV
+- [ ] 540.Single Element in a Sorted Array
+- [ ] 210.Course Schedule ll
+- [ ] 477.Total Hamming Distance
+- [ ] 742.Closest Leaf in a Binary Tree
+- [ ] 743. Network Delay Time
+- [ ] 745.Prefix and Suffix Search
+- [ ] 744.Find Smallest Letter Greater Than Target
+- [ ] 530. Minimum Absolute Difference in BST
+- [ ] 732.My Calendar lll
+- [ ] 740.Delete and Earn
+- [ ] 198.House Robber
+- [ ] 877.Stone Game
+- [ ] 879.Profitable Schemes
+- [ ] 148.Sort List
+- [ ] 873.Length of Longest Fibonacci Subsequence
+- [ ] 712.Minimum ASCll Delete Sum for Two Strings
+- [ ] 115. Distinct Subsequences
+- [ ] 871.Minimum Number of Refueling Stops
+- [ ] 775.Global and Local Inversions
+- [ ] 864.Shortest Path to Get All Keys
+- [ ] 865. Smallest Subtree with all the Deepest Nodes
+- [ ] 410.Split Array Largest Sum
+- [ ] 863.All Nodes Distance K in Binary Tree
+- [ ] 525.Contiguous Array
+- [ ] 567.Permutation in String
+- [ ] 289. Game of Life
+- [ ] 856.Score of Parentheses
+- [ ] 452.Minimum Number of Arrows to Burst Balloons
+- [ ] 848.Shifting Letters
+- [ ] 847.Shortest Path Visiting All Nodes
+- [ ] 576.Out of Boundary Paths
+- [ ] 516.Longest Palindromic Subsequence
+- [ ] 438.Find All Anagrams in a String
+- [ ] 841.Keys and Rooms
+- [ ] 329.Longest Increasing Path in a Matrix
+- [ ] 826.Most Profit Assigning Work
+- [ ] 827. Making A Large lsland
+- [ ] 823.Binary Trees With Factors
+- [ ] 486.Predict the Winner
+- [ ] 818.Race Car2
+- [ ] 801. Minimum Swaps To Make Sequences lncreasing
+- [ ] 818.Race Car
+- [ ] 817.Linked List Components
+- [ ] 815.Bus Routes
+- [ ] 813.Largest Sum of Averages
+- [ ] 432.All O'one Data Structure
+- [ ] 450. Delete Node in a BST
+- [ ] 560.Subarray Sum Equals K
+- [ ] 803.Bricks Falling When Hit
+- [ ] 802.Find Eventual Safe States
+- [ ] 799.champagne Tower
+- [ ] 792. Number of Matching Subsequences
+- [ ] 790. Domino and Tromino Tiling
+- [ ] 787.Cheapest Flights Within K Stops
+- [ ] 784.Letter Case Permutation
+- [ ] 1129.Shortest Path with Alternating Colors
+- [ ] 1125.Smallest Sufficient Team
+- [ ] 1124.Longest Well-Performing Interval
+- [ ] 391.Perfect Rectangle
+- [ ] 1106.Parsing A Boolean Expression
+- [ ] 1105.Filling Bookcase Shelves
+- [ ] 23. Merge k Sorted Lists
+- [ ] 1092.Shortest Common Supersequenc
+- [ ] 1043.Partition Array for Maximum Sum
+- [ ] 417.Pacific Atlantic Water Flow
+- [ ] 1024. Video Stitching
+- [ ] 1017.Convert to Base -2
+- [ ] 1019.Next Greater Node In Linked List
+- [ ] 1000.Minimum Cost to Merge Stones
+- [ ] 778.Swim in Rising Water
+- [ ] 979. Distribute Coins in Binary Tree
+- [ ] 980. Unique Paths lll
+- [ ] 975.Odd Even Jump
+- [ ] 973.K Closest Points to Origin
+- [ ] 972.Equal Rational Numbers
+- [ ] 967. Numbers With Same Consecutive Differences
+- [ ] 964.Least Operators to Express Number
+- [ ] 78.Subsets
+- [ ] 959.Regions Cut By Slashes
+- [ ] 956.Tallest Billboard
+- [ ] 936.Stamping The Sequence
+- [ ] 952.Largest Component Size by Common Factor
+- [ ] 943.Find the Shortest Superstring
+- [ ] 934.Shortest Bridge
+- [ ] 935. Knight Dialer
+- [ ] 926.Flip String to Monotone lncreasing
+- [ ] 923.3Sum With Multiplicity
+- [ ] 470.lmplement Rand10() Using Rand7()
+- [ ] 902.Numbers At Most N Given Digit Set
+- [ ] 901.Online Stock Span
+- [ ] 668.Kth Smallest Number in Multiplication Table
+- [ ] 898.Bitwise ORs of Subarrays
+- [ ] 894.All Possible Full Binary Trees
+- [ ] 895. Maximum Frequency Stack
+- [ ] 889.Construct Binary Tree from Preorder and Postorde
+- [ ] 891.Sum of Subsequence Widths
+- [ ] 886.Possible Bipartition
+- [ ] 707.Design Linked List
+- [ ] 882.Reachable Nodes In Subdivided Graph
+- [ ] 546.Remove Boxes
+
+
+
+
+
+
+
+
+
