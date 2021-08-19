@@ -1,8 +1,9 @@
 # 花花酱LC题集 To Do List
 
-- [ ] 1.Two Sum
-- [ ] 657.Judge Route Circle1.
-- [ ] 461.Hamming Distance
+- [x] 1.Two Sum
+- [x] 657.Judge Route Circle1.
+- [x] 461.Hamming Distance Brian
+  **Kernighan算法(计算二进制表达中 11 的数量)**
 - [ ] 455.Assign Cookies
 - [ ] 404.Sum of Left Leaves
 - [ ] 174. Dungeon Game
