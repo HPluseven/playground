@@ -4,8 +4,8 @@
 - [x] 657.Judge Route Circle1.
 - [x] 461.Hamming Distance Brian
   **Kernighan算法(计算二进制表达中 11 的数量)**
-- [ ] 455.Assign Cookies
-- [ ] 404.Sum of Left Leaves
+- [x] 455.Assign Cookies
+- [x] 404.Sum of Left Leaves
 - [ ] 174. Dungeon Game
 - [ ] 566.Reshape the Matrix l
 - [ ] 561.Array Partition
