@@ -1,12 +1,11 @@
-# 花花酱LC题集 To Do List
+# 花花酱 LC 题集 To Do List
 
 - [x] 1.Two Sum
 - [x] 657.Judge Route Circle1.
-- [x] 461.Hamming Distance Brian
-  **Kernighan算法(计算二进制表达中 11 的数量)**
+- [x] 461.Hamming Distance Brian（**Kernighan 算法(计算二进制表达中 11 的数量)**）
 - [x] 455.Assign Cookies
 - [x] 404.Sum of Left Leaves
-- [ ] 174. Dungeon Game
+- [x] 174. Dungeon Game（**反向 DP**）
 - [ ] 566.Reshape the Matrix l
 - [ ] 561.Array Partition
 - [ ] 655.Print Binary Tree
@@ -252,12 +251,3 @@
 - [ ] 707.Design Linked List
 - [ ] 882.Reachable Nodes In Subdivided Graph
 - [ ] 546.Remove Boxes
-
-
-
-
-
-
-
-
-
