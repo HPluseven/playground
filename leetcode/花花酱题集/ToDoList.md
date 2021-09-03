@@ -6,12 +6,12 @@
 - [x] 455.Assign Cookies
 - [x] 404.Sum of Left Leaves
 - [x] 174. Dungeon Game（**反向 DP**）
-- [ ] 566.Reshape the Matrix l
-- [ ] 561.Array Partition
-- [ ] 655.Print Binary Tree
-- [ ] 303.Range Sum Query - lmmutable
-- [ ] 551.Student Attendance Record l
-- [ ] 504.Base 7
+- [x] 566.Reshape the Matrix l
+- [x] 561.Array Partition
+- [x] 655.Print Binary Tree
+- [x] 303.Range Sum Query - lmmutable
+- [x] 551.Student Attendance Record l
+- [x] 504.Base 7
 - [ ] 463.lsland Perimeter
 - [ ] 637.Average of Levels in Binary Tree
 - [ ] 628.Maximum Product of Three Numbers
@@ -43,7 +43,7 @@
 - [ ] 218.The Skyline Problem
 - [ ] 547.Friend Circles
 - [ ] 664.Strange Printer
-- [ ] 200.Number of lslands
+- [x] 200.Number of lslands
 - [ ] 409.Longest Palindrome
 - [ ] 304.Range Sum Query 2D- Immutable
 - [ ] 221.Maximal Square
