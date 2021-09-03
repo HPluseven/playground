@@ -12,18 +12,18 @@
 - [x] 303.Range Sum Query - lmmutable
 - [x] 551.Student Attendance Record l
 - [x] 504.Base 7
-- [ ] 463.lsland Perimeter
-- [ ] 637.Average of Levels in Binary Tree
-- [ ] 628.Maximum Product of Three Numbers
-- [ ] 617.Merge Two Binary Trees
-- [ ] 633.Sum of Square Numbers
-- [ ] 606.Construct String from Binary Tree
-- [ ] 312.Burst Balloons
-- [ ] 141.Linked List Cycle
-- [ ] 70.Climbing Stairs
-- [ ] 112.Path Sum
-- [ ] 113.Path Sum ll
-- [ ] 120.Triangle
+- [x] 463.lsland Perimeter
+- [x] 637.Average of Levels in Binary Tree
+- [x] 628.Maximum Product of Three Numbers
+- [x] 617.Merge Two Binary Trees
+- [x] 633.Sum of Square Numbers
+- [x] 606.Construct String from Binary Tree
+- [x] 312.Burst Balloons (**hard dp**)
+- [x] 141.Linked List Cycle
+- [x] 70.Climbing Stairs
+- [x] 112.Path Sum
+- [x] 113.Path Sum ll
+- [x] 120.Triangle
 - [ ] 53.Maximum Subarray
 - [ ] 139.Word Break (revisit)
 - [ ] 140. Word Break ll
