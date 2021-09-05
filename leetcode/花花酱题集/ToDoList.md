@@ -24,11 +24,11 @@
 - [x] 112.Path Sum
 - [x] 113.Path Sum ll
 - [x] 120.Triangle
-- [ ] 53.Maximum Subarray
-- [ ] 139.Word Break (revisit)
-- [ ] 140. Word Break ll
-- [ ] 110.Balanced Binary Tree
-- [ ] 21.Merge Two Sorted Lists
+- [x] 53.Maximum Subarray (**mark**)
+- [x] 139.Word Break (revisit) (**dp**)
+- [ ] 140. Word Break ll (**hard**)
+- [x] 110.Balanced Binary Tree (**simple dfs**)
+- [x] 21.Merge Two Sorted Lists
 - [ ] 241.Different Ways to Add Parentheses
 - [ ] 102.Binary Tree Level Order Traversal
 - [ ] 687.Longest Univalue Path
