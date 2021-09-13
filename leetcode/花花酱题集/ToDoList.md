@@ -62,7 +62,7 @@
 - [ ] 300.Longest lncreasing Subsequence
 - [ ] 674.Longest Continuous lIncreasing Subsequence
 - [ ] 63.Unique Paths ll
-- [ ] 62.Unique Paths
+- [x] 62.Unique Paths
 - [ ] 268.Missing Number
 - [ ] 611.Valid Triangle Numbe
 - [ ] 204.Count Primes
