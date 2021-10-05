@@ -30,7 +30,7 @@
 - [x] 110.Balanced Binary Tree (**simple dfs**)
 - [x] 21.Merge Two Sorted Lists
 - [x] 241.Different Ways to Add Parentheses(**class divide**)
-- [ ] 102.Binary Tree Level Order Traversal
+- [x] 102.Binary Tree Level Order Traversal
 - [ ] 687.Longest Univalue Path
 - [ ] 678.Valid Parenthesis String
 - [ ] 683.K Empty Slots
